@@ -1,7 +1,11 @@
 # Squid
 
 Debian 11
+
 Squid 4.13
+
+![](/ssh.png)
+![](/squid.png)
 
 ## Arquivos editados
 
