@@ -1,5 +1,7 @@
 # Squid
 
+[Baixe o OVA no Google Drive](https://drive.google.com/drive/folders/167SecQqHaj53QvY4qL9IdG087qeHB-2f?usp=share_link)
+
 Debian 11
 
 Squid 4.13
